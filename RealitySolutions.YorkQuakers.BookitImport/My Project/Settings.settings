@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="BookitSQLConnection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=YQ-SQL01\YQSI;Database=BookitCalendarLive;User=sa;Password=R3al1TY</Value>
+    </Setting>
+    <Setting Name="ImportFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Reality\ImportFiles</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
